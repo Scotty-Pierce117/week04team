@@ -1,1 +1,2 @@
 Hello!  My name is Scott.
+This is a new line.
